@@ -37,7 +37,7 @@
         </div>
 
     </nav>
-    <h1>Login Page</h1>
+    <h1>Login_Page</h1>
 
 
     <script src="../resources/js/bootstrap.js"></script>
